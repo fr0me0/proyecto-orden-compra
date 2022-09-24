@@ -1,4 +1,4 @@
-La tarea es crear un proyecto nuevo llamado ProyectoOrdenCompra de la siguiente manera:
+Crear un proyecto nuevo llamado ProyectoOrdenCompra de la siguiente manera:
 
 - Se requiere crear la clase `OrdenCompra` con los siguientes campos privados: 
   - **identificador** tipo Integer autoincremental, 
